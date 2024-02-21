@@ -1,2 +1,6 @@
-table_of_2 = ("2*1=1", "2*2=4", "2*3=6", "2*4=8", "2*5=10", "2*6=12", "2*7=14")
-print(table_of_2)
+
+age = 1000
+print(type(age))
+
+age = "sumanth"
+print(age)
